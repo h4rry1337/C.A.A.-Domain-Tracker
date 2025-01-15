@@ -31,4 +31,6 @@ This approach enables the exploration and identification of domains that share t
 
 NOTE: IT IS NECESSARY TO INITIATE THE PROCESS IN THE SAME DIRECTORY WHERE THE wildcards FILE IS WRITTEN.
 
+**Results stored in the file cf_or_azr_amzn_domains.txt**
+
 **Credits @c3l3si4n and References: https://celes.in/posts/cloudflare_ns_whois**
