@@ -15,7 +15,7 @@ This approach enables the exploration and identification of domains that share t
 
 **Install and Usage:**
 
-``GITCLONE E MOVER PRA /usr/bin/CAA-Domain-Tracker.sh``
+``GITCLONE E MOVER PARA /usr/bin/CAA-Domain-Tracker.sh``
 
 **Change APIKEY for Setup CAA-Domain-Tracker.sh**
 
