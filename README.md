@@ -18,6 +18,7 @@ This approach enables the exploration and identification of domains that share t
 ``$ curl https://raw.githubusercontent.com/h4rry1337/C.A.A.-Domain-Tracker/main/C.A.A.-Domain-Tracker.sh -O``
 
 **Moving to /usr/bin/**
+
 ``$ sudo mv CAA-Domain-Tracker.sh /usr/bin/CAA-Domain-Tracker.sh``
 
 **Change APIKEY for Setup CAA-Domain-Tracker.sh**
