@@ -17,9 +17,9 @@ This approach enables the exploration and identification of domains that share t
 
 ``$ curl https://raw.githubusercontent.com/h4rry1337/C.A.A.-Domain-Tracker/main/C.A.A.-Domain-Tracker.sh -O; sudo mv C.A.A.-Domain-Tracker.sh /usr/bin/C.A.A.-Domain-Tracker.sh``
 
-**Change APIKEY for Setup CAA-Domain-Tracker.sh**
+**Change APIKEY for Setup C.A.A.-Domain-Tracker.sh**
 
-``$ sed -i 's/^APIKEY=".*"/APIKEY="APIKEY-HERE"/' /usr/bin/CAA-Domain-Tracker.sh``
+``$ sed -i 's/^APIKEY=".*"/APIKEY="APIKEY-HERE"/' /usr/bin/C.A.A.-Domain-Tracker.sh``
 
 **Create the wildcards file and add the top-level domains you want to recognize**
 
@@ -27,7 +27,7 @@ This approach enables the exploration and identification of domains that share t
 
 **For Start Process:**
 
-``$ CAA-Domain-Tracker.sh``
+``$ C.A.A.-Domain-Tracker.sh``
 
 NOTE: IT IS NECESSARY TO INITIATE THE PROCESS IN THE SAME DIRECTORY WHERE THE wildcards FILE IS WRITTEN.
 
